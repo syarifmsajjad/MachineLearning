@@ -58,4 +58,3 @@ Machine Learning  Curriculum
 - Selama seluruh modul, penting untuk mengintegrasikan praktik yang baik seperti version control (misalnya, menggunakan Git) dan manajemen proyek.
 - Dorong murid Anda untuk aktif berpartisipasi dalam komunitas Machine Learning, membaca literatur terkini, dan mengikuti perkembangan terbaru dalam bidang ini.
 
-Pastikan untuk memberikan umpan balik secara rutin kepada murid Anda dan mengevaluasi kemampuannya secara berkala untuk memastikan kemajuan yang konsisten. Dengan modul ini, Anda akan membantu murid Anda menjadi seorang Machine Learning Engineer yang handal dan siap untuk dipekerjakan di perusahaan terkemuka seperti FAANG.
